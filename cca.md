@@ -1,5 +1,5 @@
 # ============================================
-# Collaborative Cognitive Architexture version 2.0
+# Collaborative Cognitive Architexture
 # ============================================
 
 # BLOCK I — FOUNDATIONS, PURPOSE, AND GLOBAL ARCHITECTURE
@@ -1153,3 +1153,6 @@ Supports versioning, lineage, lexicon governance, architectural diffs, and long-
 ## XX.9 Stability Guarantee
 Supervisor + SREL ensure no architectural drift, no fidelity loss, no silent changes, and no contradiction across layers or lexicons.
 
+CCA_VERSION=2.0.0
+CCA_BUILD=2025-11-16
+CCA_STATUS=AUTHORITATIVE
